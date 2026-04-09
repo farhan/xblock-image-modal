@@ -1,12 +1,16 @@
-![Status](https://img.shields.io/badge/status-deprecated-red)
+.. image:: https://img.shields.io/badge/status-deprecated-red
+   :alt: Status
 
-## ⚠️ This Repository is Deprecated
-This repository is no longer maintained.
+Deprecation
+===========
 
-The Image Modal XBlock has been moved to:
-👉 https://github.com/openedx/xblocks-extra
+**This repository is no longer maintained.**
+
+The Image Modal XBlock has been moved to `xblocks-extra <https://github.com/openedx/xblocks-extra>`_.
 
 Please use the new repository for all future work.
+
+----
 
 Image Modal XBlock
 ==================
